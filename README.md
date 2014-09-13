@@ -1,4 +1,4 @@
-# Cartells promcionals utilitzats durant la campanya del Codeclub a les biblioteques
+# Cartells promocionals utilitzats durant la campanya del Codeclub a les biblioteques
 
 ## Els cartells estan disponibles en diferents resolucions.
 
